@@ -12,7 +12,7 @@ Hasil Output Selection Widget :
 
 Hasil Output RecyclerView :
 ![Hasil 1 GenshinRecyclerView](https://user-images.githubusercontent.com/75287752/136407778-87bc2c7f-ee64-4d8b-b7bb-7d1e7c67d592.jpg)
-![Hasil 2 Gensh![Hasil 3 GenshinRecyclerView](https://user-images.githubusercontent.com/75287752/136407805-c7f0d1d6-3fd5-4593-93f2-0e0a05075278.jpg)
+![Hasil 2 GenshinRecyclerView](https://user-images.githubusercontent.com/75287752/136408343-46cad550-0291-4807-973d-e427fd4a1402.jpg)
 ![Hasil 3 GenshinRecyclerView](https://user-images.githubusercontent.com/75287752/136407904-17a4a454-b2f6-428a-9105-238d1336a4a5.jpg)
 ![Hasil 4 GenshinRecyclerView](https://user-images.githubusercontent.com/75287752/136407816-84a9f256-cc1a-4737-bb05-e950b0fe7e23.jpg)
 ![Hasil 5 GenshinRecyclerView](https://user-images.githubusercontent.com/75287752/136407827-29eb7186-64af-4822-9908-b75d55d1c46a.jpg)
